@@ -17,12 +17,14 @@ Este repositório contém os cenários e resultados do teste manual realizado na
 │   └── Bug_Report__.docx.pdf        # Relatório de bug encontrado
 └── README.md                        # Documento principal
 
+
 🎯 Objetivo
 Este repositório tem como propósito:
 ✔ Centralizar a execução e documentação de testes manuais
 ✔ Servir como material de estudo e prática em QA
 ✔ Evidenciar o fluxo completo de teste manual (casos + evidências + bug report)
 ✔ Apoiar futuras implementações de testes automatizados
+
 
 ✅ Cenários Executados
 ID	Cenário	Resultado
@@ -31,6 +33,7 @@ TC02	Campos vazios	✅ Mensagem exibida
 TC03	Usuário problemático	✅ Produtos embaralhados
 TC04	Login via tecla Enter	✅ Sucesso
 TC05	Usuário bloqueado	⚠️ Bug identificado
+
 
 🧠 Ferramentas Utilizadas
 - Google Chrome — Execução dos testes em ambiente web
