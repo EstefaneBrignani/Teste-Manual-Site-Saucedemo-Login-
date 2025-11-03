@@ -31,7 +31,9 @@ Este repositório tem como propósito:
 
 
 ✅ Cenários Executados
+
 ID	Cenário	Resultado
+
 TC01	Login com dados válidos	✅ Sucesso
 
 TC02	Campos vazios	✅ Mensagem exibida
