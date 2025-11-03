@@ -7,19 +7,16 @@ Este repositório contém os cenários e resultados do teste manual realizado na
 
 📂 Estrutura do Repositório
 
-├── caderno-de-testes/
+└── Caderno_de_testes.xlsx /       Planilha com casos de teste
 
-└── Caderno_de_testes.xlsx       # Planilha com casos de teste
 
-├── relatorios-de-evidencias/
+└── Relatorio de Evidencias.pdf /  Evidências e prints do teste
 
-└── Relatorio de Evidencias.pdf  # Evidências e prints do teste
 
-├── relatorios-de-bugs/
+└── Bug_Report__.docx.pdf     /    Relatório de bug encontrado
 
-└── Bug_Report__.docx.pdf        # Relatório de bug encontrado
 
-└── README.md                        # Documento principal
+└── README.md              /           Documento principal
 
 
 🎯 Objetivo
